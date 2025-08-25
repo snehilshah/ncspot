@@ -1,0 +1,30 @@
+default_keybindings = true
+use_nerdfont = true
+notify = true
+gapless = true
+flip_status_indicators=true
+
+statusbar_format = "%title - %artist"
+[track_format]
+left = "%title"
+center = "%album - %artist"
+right = "%saved %duration"
+
+[theme]
+background = "#32302f"
+primary = "#d4be98"
+secondary = "#a9b665"
+title = "#e78a4e"
+playing = "#d8a657"
+playing_selected = "#d8a657"
+playing_bg = "#32302f"
+highlight = "#7daea3"
+highlight_bg = "#45403d"
+error = "#d4be98"
+error_bg = "#ea6962"
+statusbar = "#d4be98"
+statusbar_bg = "#3c3836"
+statusbar_progress = "#a9b665"
+cmdline = "#d4be98"
+cmdline_bg = "#282828"
+search_match = "#d3869b"
